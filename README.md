@@ -33,6 +33,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 ## Background Tasks
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
+[Hangfire](https://github.com/HangfireIO/Hangfire) | Install-Package Hangfire | [Planned](https://github.com/HangfireIO/Hangfire/issues/365) | [Possible](https://discuss.hangfire.io/t/how-to-config-hangfire-with-asp-net-5/945) | [hangfire.io](http://hangfire.io)
 
 ## Image Manipulation
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
