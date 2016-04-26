@@ -53,3 +53,4 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 ## Windows Services
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
+[Topshelf](https://github.com/Topshelf/Topshelf) | Install-Package Topshelf | [In progress](https://github.com/Topshelf/Topshelf/issues/277) | [In progress](https://github.com/Topshelf/Topshelf/issues/277) | [topshelf-project.com](http://topshelf-project.com)
