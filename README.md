@@ -17,6 +17,12 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [FeatureToggle](https://github.com/jason-roberts/FeatureToggle) | Install-Package FeatureToggle | [Planned](https://github.com/jason-roberts/FeatureToggle/issues/109) | [Planned](https://github.com/jason-roberts/FeatureToggle/issues/109) | [Blog](http://dontcodetired.com/blog/?tag=/featuretoggle)
 
 ## Profiling
+Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
+------- | --------------------- | ----------------- | -------------------- | -------
+[MiniProfiler](https://github.com/MiniProfiler/dotnet) | Install-Package MiniProfiler | [Planned for RC2](https://github.com/MiniProfiler/dotnet/issues/116) | [Planned for RC2](https://github.com/MiniProfiler/dotnet/issues/116) | [miniprofiler.com](http://miniprofiler.com)
+[Glimpse](https://github.com/Glimpse/Glimpse.Prototype) | Install-Package Glimpse -Pre | [Yes (beta)](http://blog.getglimpse.com/2015/11/19/installing-glimpse-v2-beta1) | [Yes (beta)](http://blog.getglimpse.com/2015/11/19/installing-glimpse-v2-beta1) | [getglimpse.com](http://getglimpse.com)
+Prefix | N/A (download installer) | [Planned for RC2](http://stackify.com/prefix-for-asp-net-core-rc1-is-available) | [Yes](http://stackify.com/prefix-for-asp-net-core-rc1-is-available) | [prefix.io](http://www.prefix.io)
+
 
 ## O/RMs
 
