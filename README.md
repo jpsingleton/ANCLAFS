@@ -26,6 +26,9 @@ Prefix | N/A (download installer) | [Planned for RC2](http://stackify.com/prefix
 ## O/RMs
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
+[Dapper](https://github.com/StackExchange/dapper-dot-net) | Install-Package Dapper -Pre | Yes | Yes | [github.io](https://stackexchange.github.io/dapper-dot-net)
+[Simple.Data](https://github.com/markrendle/Simple.Data) | Install-Package Simple.Data.SqlServer | [Planned](https://blog.rendle.io/another-simple-data-update) | [Planned](https://blog.rendle.io/another-simple-data-update)
+[EF Core](https://github.com/aspnet/EntityFramework) | Install-Package EntityFramework.MicrosoftSqlServer -Pre | Yes | Yes | [efproject.net](http://docs.efproject.net/en/latest/)
 
 ## Background Tasks
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
