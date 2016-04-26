@@ -11,6 +11,10 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Scientist.NET](https://github.com/Haacked/Scientist.net) | Install-Package Scientist -Pre | [Hypothetically](https://github.com/Haacked/Scientist.net/issues/54) | [Hypothetically](https://github.com/Haacked/Scientist.net/pull/37) | [Blog](http://haacked.com/archive/2016/01/20/scientist)
 
 ## Feature Switching
+Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
+------- | --------------------- | ----------------- | -------------------- | -------
+[FeatureSwitcher](https://github.com/mexx/FeatureSwitcher) | Install-Package FeatureSwitcher | No | No
+[FeatureToggle](https://github.com/jason-roberts/FeatureToggle) | Install-Package FeatureToggle | [Planned](https://github.com/jason-roberts/FeatureToggle/issues/109) | [Planned](https://github.com/jason-roberts/FeatureToggle/issues/109) | [Blog](http://dontcodetired.com/blog/?tag=/featuretoggle)
 
 ## Profiling
 
