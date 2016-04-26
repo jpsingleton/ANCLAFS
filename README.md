@@ -45,6 +45,10 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 ## Message Queuing
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
+[RestBus](https://github.com/tenor/RestBus) | Install-Package RestBus.AspNet -Pre ([guide](https://github.com/tenor/RestBus/wiki/ASP.NET-Core-service-%28RabbitMQ-callable%29)) | Yes | Yes | [restbus.org](http://restbus.org) ([Blog](http://ahuwanya.net/blog/post/Introducing-RestBus))
+[EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) | Install-Package EasyNetQ | [Planned](https://github.com/EasyNetQ/EasyNetQ/issues/508) | [Planned](https://github.com/EasyNetQ/EasyNetQ/issues/508) | [easynetq.com](http://easynetq.com)
+[RabbitMQ client](https://github.com/rabbitmq/rabbitmq-dotnet-client) | Install-Package RabbitMQ.Client | [Planned (new)](https://github.com/rabbitmq/rabbitmq-dotnet-client/issues/148) | [Planned (new)](https://github.com/rabbitmq/rabbitmq-dotnet-client/issues/148) | [rabbitmq.com](https://www.rabbitmq.com/dotnet.html)
+[MassTransit](https://github.com/MassTransit/MassTransit) | Install-Package MassTransit.RabbitMQ | [Planned](https://github.com/MassTransit/MassTransit/issues/527) | [Planned](https://github.com/MassTransit/MassTransit/issues/527) | [masstransit-project.com](http://masstransit-project.com)
 
 ## Windows Services
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
