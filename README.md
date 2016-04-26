@@ -6,6 +6,9 @@ In the process of writing a [book](https://www.packtpub.com/application-developm
 # Categories
 
 ## Experimenting
+Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
+------- | --------------------- | ----------------- | -------------------- | -------
+[Scientist.NET](https://github.com/Haacked/Scientist.net) | Install-Package Scientist -Pre | [Hypothetically](https://github.com/Haacked/Scientist.net/issues/54) | [Hypothetically](https://github.com/Haacked/Scientist.net/pull/37) | [Blog](http://haacked.com/archive/2016/01/20/scientist)
 
 ## Feature Switching
 
