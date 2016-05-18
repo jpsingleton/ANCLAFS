@@ -59,3 +59,4 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
 [Nancy](https://github.com/NancyFx/Nancy/tree/coreclr) | Install-Package Nancy -Pre | [In progress](http://thecodejunkie.com/2016/02/22/working-full-time-on-getting-nancy-running-on-coreclr) | [In progress](http://thecodejunkie.com/2016/02/22/working-full-time-on-getting-nancy-running-on-coreclr) | [nancyfx.org](http://nancyfx.org)
+[SignalR](https://github.com/SignalR/SignalR) | Install-Package Microsoft.AspNet.SignalR | [After RTM (v3)](https://github.com/aspnet/home/wiki/roadmap#future-work) | [After RTM (v3)](https://github.com/aspnet/home/wiki/roadmap#future-work) | [signalr.net](http://signalr.net/)
