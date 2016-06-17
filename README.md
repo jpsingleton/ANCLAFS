@@ -61,16 +61,20 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Nancy](https://github.com/NancyFx/Nancy/tree/coreclr) | Install-Package Nancy -Pre | [In progress](http://thecodejunkie.com/2016/02/22/working-full-time-on-getting-nancy-running-on-coreclr) | [In progress](http://thecodejunkie.com/2016/02/22/working-full-time-on-getting-nancy-running-on-coreclr) | [nancyfx.org](http://nancyfx.org)
 [SignalR](https://github.com/SignalR/SignalR) | Install-Package Microsoft.AspNet.SignalR | [After RTM (v3)](https://github.com/aspnet/home/wiki/roadmap#future-work) | [After RTM (v3)](https://github.com/aspnet/home/wiki/roadmap#future-work) | [signalr.net](http://signalr.net/)
 [ReactJS.NET](https://github.com/reactjs/React.NET) | Install-Package React.AspNet | No, Linux via [Mono](http://reactjs.net/guides/mono.html) | [Yes](http://reactjs.net/2016/05/2.4.0-release.html) | [ReactJS.NET](http://reactjs.net/)
-[Swashbuckle](https://github.com/domaindrivendev/Ahoy) | Install-Package Swashbuckle -Pre | Yes (beta) | Yes (beta) | |
+[Swashbuckle](https://github.com/domaindrivendev/Ahoy) | Install-Package Swashbuckle -Pre | Yes (beta) | Yes (beta) | 
 
 ## DI / IoC Containers
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
-[Windsor](https://github.com/castleproject/Windsor) | {no .NET Core support} | [In progress](https://github.com/castleproject/Core/releases/tag/v4.0.0-alpha001) | [In progress](https://github.com/castleproject/Windsor/issues/120) | [castleproject.org](http://www.castleproject.org/) |
+[Windsor](https://github.com/castleproject/Windsor) | {no .NET Core support} | [In progress](https://github.com/castleproject/Core/releases/tag/v4.0.0-alpha001) | [In progress](https://github.com/castleproject/Windsor/issues/120) | [castleproject.org](http://www.castleproject.org/)
+[Ninject](https://github.com/ninject/Ninject) | {no .NET Core support} | [No](https://github.com/ninject/Ninject/issues/177) | [No](https://github.com/ninject/Ninject/issues/177) | [ninject.org](http://www.ninject.org/)
+[Autofac](https://github.com/autofac/Autofac) | {no .NET Core support} | [In progress](https://github.com/autofac/Autofac/issues/594) | [In progress](https://github.com/autofac/Autofac/issues/594) | [autofac.org](http://autofac.org/)
+[SimpleInjector](https://github.com/simpleinjector/SimpleInjector) | Install-Package SimpleInjector -Version 3.1.5 | Yes | Yes | [simpleinjector.org](https://simpleinjector.org)
+ASP.NET Core contains built-in [DI](https://docs.asp.net/en/latest/fundamentals/dependency-injection.html) (and [logging](https://docs.asp.net/en/latest/fundamentals/logging.html))
 
 ## Other
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
 [Orleans](https://github.com/dotnet/orleans) | [Multiple](https://github.com/dotnet/orleans#installation) | [In progress](https://github.com/dotnet/orleans/tree/coreclr-compatibility) | [In progress](https://github.com/dotnet/orleans/issues/368) | [dotnet.github.io/orleans](https://dotnet.github.io/orleans/)
 [Huxley](https://github.com/jpsingleton/Huxley) | N/A | [Planned](https://github.com/jpsingleton/Huxley/issues/44) | [Planned](https://github.com/jpsingleton/Huxley/issues/44) | [huxley.unop.uk](https://huxley.unop.uk/)
-[AutoMapper](https://github.com/AutoMapper/AutoMapper) | Install-Package AutoMapper -Pre | Yes (beta) | Yes (beta) | [automapper.org](http://automapper.org/) |
+[AutoMapper](https://github.com/AutoMapper/AutoMapper) | Install-Package AutoMapper -Pre | Yes (beta) | Yes (beta) | [automapper.org](http://automapper.org/) 
