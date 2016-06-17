@@ -63,6 +63,11 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [ReactJS.NET](https://github.com/reactjs/React.NET) | Install-Package React.AspNet | No, Linux via [Mono](http://reactjs.net/guides/mono.html) | [Yes](http://reactjs.net/2016/05/2.4.0-release.html) | [ReactJS.NET](http://reactjs.net/)
 [Swashbuckle](https://github.com/domaindrivendev/Ahoy) | Install-Package Swashbuckle -Pre | Yes (beta) | Yes (beta) | |
 
+## DI / IoC Containers
+Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
+------- | --------------------- | ----------------- | -------------------- | -------
+[Windsor](https://github.com/castleproject/Windsor) | {no .NET Core support} | [In progress](https://github.com/castleproject/Core/releases/tag/v4.0.0-alpha001) | [In progress](https://github.com/castleproject/Windsor/issues/120) | [castleproject.org](http://www.castleproject.org/) |
+
 ## Other
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
