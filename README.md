@@ -49,6 +49,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) | Install-Package EasyNetQ | [Planned](https://github.com/EasyNetQ/EasyNetQ/issues/508) | [Planned](https://github.com/EasyNetQ/EasyNetQ/issues/508) | [easynetq.com](http://easynetq.com)
 [RabbitMQ client](https://github.com/rabbitmq/rabbitmq-dotnet-client) | Install-Package RabbitMQ.Client | [Planned (new)](https://github.com/rabbitmq/rabbitmq-dotnet-client/issues/148) | [Planned (new)](https://github.com/rabbitmq/rabbitmq-dotnet-client/issues/148) | [rabbitmq.com](https://www.rabbitmq.com/dotnet.html)
 [MassTransit](https://github.com/MassTransit/MassTransit) | Install-Package MassTransit.RabbitMQ | [Planned](https://github.com/MassTransit/MassTransit/issues/527) | [Planned](https://github.com/MassTransit/MassTransit/issues/527) | [masstransit-project.com](http://masstransit-project.com)
+[RdKafka](https://github.com/ah-/rdkafka-dotnet) | Install-Package RdKafka | Yes | Yes | [https://ah-.github.io/rdkafka-dotnet/](https://ah-.github.io/rdkafka-dotnet/)
 
 ## Windows Services
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
