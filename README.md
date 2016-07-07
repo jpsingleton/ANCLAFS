@@ -81,3 +81,4 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [AutoMapper](https://github.com/AutoMapper/AutoMapper) | Install-Package AutoMapper -Pre | Yes (beta) | Yes (beta) | [automapper.org](http://automapper.org/)
 [protobuf-net](https://github.com/mgravell/protobuf-net) | Install-Package protobuf-net | [Not yet](https://github.com/mgravell/protobuf-net/issues/159) | [Not yet](https://github.com/mgravell/protobuf-net/issues/159)
 [Stuntman](https://github.com/ritterim/stuntman) | Install-Package RimDev.Stuntman | [Not yet](https://github.com/ritterim/stuntman/issues/62) | [Not yet](https://github.com/ritterim/stuntman/issues/62) | [rimdev.io/stuntman](http://rimdev.io/stuntman/)
+[akka.net](https://github.com/akkadotnet/akka.net) | Install-Package Akka | [WIP](https://github.com/akkadotnet/akka.net/pull/2134) | [WIP](https://github.com/akkadotnet/akka.net/issues/992) | [getakka.net](http://getakka.net/)
