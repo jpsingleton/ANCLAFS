@@ -71,7 +71,38 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Ninject](https://github.com/ninject/Ninject) | {no .NET Core support} | [No](https://github.com/ninject/Ninject/issues/177) | [No](https://github.com/ninject/Ninject/pull/200) | [ninject.org](http://www.ninject.org/)
 [Autofac](https://github.com/autofac/Autofac) | Install-Package Autofac -Pre | [Yes?](https://github.com/autofac/Autofac/pull/672) | [In progress](https://github.com/autofac/Autofac/issues/594) | [autofac.org](http://autofac.org/)
 [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) | Install-Package SimpleInjector -Version 3.1.5 | Yes | Yes | [simpleinjector.org](https://simpleinjector.org)
-ASP.NET Core contains built-in [DI](https://docs.asp.net/en/latest/fundamentals/dependency-injection.html) (and [logging](https://docs.asp.net/en/latest/fundamentals/logging.html))
+[Unity](https://github.com/unitycontainer/unity) | Install-Package Unity-CoreClr -Pre | [?](https://github.com/unitycontainer/unity/issues/42) | [?](https://github.com/unitycontainer/unity/issues/63)
+ASP.NET Core contains built-in [DI](https://docs.asp.net/en/latest/fundamentals/dependency-injection.html)
+
+## Logging
+Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
+------- | --------------------- | ----------------- | -------------------- | -------
+[Serilog](https://github.com/serilog/serilog) |  | ? | ? | 
+[NLog](https://github.com/NLog/Nlog) |  |  |  | 
+[common.logging](https://github.com/net-commons/common-logging) |  |  |  | 
+[log4net](https://github.com/apache/log4net) |  |  |  | 
+ASP.NET Core contains built-in [logging](https://docs.asp.net/en/latest/fundamentals/logging.html)
+
+## Serialization
+Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
+------- | --------------------- | ----------------- | -------------------- | -------
+[JSON.NET](https://github.com/JamesNK/Newtonsoft.Json) | Install-Package Newtonsoft.Json | Yes | Yes | [newtonsoft.com/json](http://www.newtonsoft.com/json)
+[Jil](https://github.com/kevin-montrose/Jil) |  | [?](https://github.com/kevin-montrose/Jil/pull/185) |  | 
+[NetJSON](https://github.com/rpgmaker/NetJSON) |  | [?](https://github.com/rpgmaker/NetJSON/issues/105) |  | 
+[ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) |  |  |  | 
+[Bond](https://github.com/Microsoft/bond) |  | [?](https://github.com/Microsoft/bond/issues/166) |  | 
+[protobuf-net](https://github.com/mgravell/protobuf-net) | Install-Package protobuf-net | [Not yet](https://github.com/mgravell/protobuf-net/issues/159) | [Not yet](https://github.com/mgravell/protobuf-net/issues/159)
+
+## Testing
+
+Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
+------- | --------------------- | ----------------- | -------------------- | -------
+[xUnit.net](https://github.com/xunit/xunit) |  | ? | ? | 
+[Nunit](https://github.com/nunit/nunit) |  | ? | ? | 
+[Moq](https://github.com/moq/moq4) |  |  |  | 
+[FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) |  |  |  | 
+[Selenium](https://github.com/SeleniumHQ/selenium) |  |  |  | 
+[SpecFlow](https://github.com/techtalk/SpecFlow) |  |  |  | 
 
 ## Other
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
@@ -79,7 +110,8 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Orleans](https://github.com/dotnet/orleans) | [Multiple](https://github.com/dotnet/orleans#installation) | [In progress](https://github.com/dotnet/orleans/tree/coreclr-compatibility) | [In progress](https://github.com/dotnet/orleans/issues/368) | [dotnet.github.io/orleans](https://dotnet.github.io/orleans/)
 [Huxley](https://github.com/jpsingleton/Huxley) | N/A | [Planned](https://github.com/jpsingleton/Huxley/issues/44) | [Planned](https://github.com/jpsingleton/Huxley/issues/44) | [huxley.unop.uk](https://huxley.unop.uk/)
 [AutoMapper](https://github.com/AutoMapper/AutoMapper) | Install-Package AutoMapper -Pre | Yes (beta) | Yes (beta) | [automapper.org](http://automapper.org/)
-[protobuf-net](https://github.com/mgravell/protobuf-net) | Install-Package protobuf-net | [Not yet](https://github.com/mgravell/protobuf-net/issues/159) | [Not yet](https://github.com/mgravell/protobuf-net/issues/159)
 [Stuntman](https://github.com/ritterim/stuntman) | Install-Package RimDev.Stuntman | [Not yet](https://github.com/ritterim/stuntman/issues/62) | [Not yet](https://github.com/ritterim/stuntman/issues/62) | [rimdev.io/stuntman](http://rimdev.io/stuntman/)
 [akka.net](https://github.com/akkadotnet/akka.net) | Install-Package Akka | [WIP](https://github.com/akkadotnet/akka.net/pull/2134) | [WIP](https://github.com/akkadotnet/akka.net/issues/992) | [getakka.net](http://getakka.net/)
 [GraphQL for .NET](https://github.com/graphql-dotnet/graphql-dotnet) | Install-Package GraphQL | [Antlr  dep.](https://github.com/graphql-dotnet/graphql-dotnet/issues/43) | [Antlr  dep.](https://github.com/graphql-dotnet/graphql-dotnet/issues/43)
+[Antlr](https://github.com/tunnelvisionlabs/antlr4cs) | Install-Package Antlr4 -Pre | [?](https://github.com/tunnelvisionlabs/antlr4cs/issues/144) | [?](https://github.com/antlr/antlrcs/issues/42) | [antlr.org](http://www.antlr.org)
+
