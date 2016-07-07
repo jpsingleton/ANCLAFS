@@ -69,7 +69,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 ------- | --------------------- | ----------------- | -------------------- | -------
 [Windsor](https://github.com/castleproject/Windsor) | {no .NET Core support} | [In progress](https://github.com/castleproject/Core/releases/tag/v4.0.0-alpha001) | [In progress](https://github.com/castleproject/Windsor/issues/120) | [castleproject.org](http://www.castleproject.org/)
 [Ninject](https://github.com/ninject/Ninject) | {no .NET Core support} | [No](https://github.com/ninject/Ninject/issues/177) | [No](https://github.com/ninject/Ninject/issues/177) | [ninject.org](http://www.ninject.org/)
-[Autofac](https://github.com/autofac/Autofac) | {no .NET Core support} | [In progress](https://github.com/autofac/Autofac/issues/594) | [In progress](https://github.com/autofac/Autofac/issues/594) | [autofac.org](http://autofac.org/)
+[Autofac](https://github.com/autofac/Autofac) | Install-Package Autofac -Pre | [Yes?](https://github.com/autofac/Autofac/pull/672) | [In progress](https://github.com/autofac/Autofac/issues/594) | [autofac.org](http://autofac.org/)
 [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) | Install-Package SimpleInjector -Version 3.1.5 | Yes | Yes | [simpleinjector.org](https://simpleinjector.org)
 ASP.NET Core contains built-in [DI](https://docs.asp.net/en/latest/fundamentals/dependency-injection.html) (and [logging](https://docs.asp.net/en/latest/fundamentals/logging.html))
 
