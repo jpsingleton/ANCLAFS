@@ -38,7 +38,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 ## Image Manipulation
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
-[ImageResizer](https://github.com/imazen/resizer) | Install-Package ImageResizer.WebConfig | No | No | [imageresizing.net](http://imageresizing.net)
+[ImageResizer](https://github.com/imazen/resizer) | Install-Package ImageResizer.WebConfig | [libimageflow](https://github.com/imazen/imageflow) | [libimageflow](https://github.com/imazen/imageflow) | [imageresizing.net](http://imageresizing.net)
 [DynamicImage](https://github.com/tgjones/dynamic-image) | Install-Package DynamicImage | No | No | [dynamicimage.apphb.com](https://dynamicimage.apphb.com/)
 [ImageProcessorCore](https://github.com/JimBobSquarePants/ImageProcessor/tree/Core) | Not yet ([myget](https://www.myget.org/gallery/imageprocessor)) | Yes (WIP) | Yes (WIP) | [imageprocessor.org](http://imageprocessor.org)
 
