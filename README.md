@@ -5,6 +5,20 @@ In the process of writing a [book](https://www.packtpub.com/application-developm
 
 # Categories
 
+ - [Experimenting](#experimenting)
+ - [Feature Switching](#feature-switching)
+ - [O/RMs / DBs](#orms--dbs)
+ - [Background Tasks](#background-tasks)
+ - [Image Manipulation](#image-manipulation)
+ - [Message Queuing](#message-queuing)
+ - [Windows Services](#windows-services)
+ - [Web](#web)
+ - [DI / IoC Containers](#di--ioc-containers)
+ - [Logging](#logging)
+ - [Serialization](#serialization)
+ - [Testing](#testing)
+ - [Other](#other) 
+
 ## Experimenting
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
