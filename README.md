@@ -102,10 +102,10 @@ ASP.NET Core contains built-in [logging](https://docs.asp.net/en/latest/fundamen
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
 [JSON.NET](https://github.com/JamesNK/Newtonsoft.Json) | Install-Package Newtonsoft.Json | Yes | Yes | [newtonsoft.com/json](http://www.newtonsoft.com/json)
-[Jil](https://github.com/kevin-montrose/Jil) |  | [?](https://github.com/kevin-montrose/Jil/pull/185) |  | 
-[NetJSON](https://github.com/rpgmaker/NetJSON) |  | [?](https://github.com/rpgmaker/NetJSON/issues/105) |  | 
-[ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) |  |  |  | 
-[Bond](https://github.com/Microsoft/bond) |  | [?](https://github.com/Microsoft/bond/issues/166) |  | 
+[Jil](https://github.com/kevin-montrose/Jil) |  | [WIP](https://github.com/kevin-montrose/Jil/pull/185) | [WIP](https://github.com/kevin-montrose/Jil/pull/185) | 
+[NetJSON](https://github.com/rpgmaker/NetJSON) |  | [WIP](https://github.com/rpgmaker/NetJSON/issues/105) | [WIP](https://github.com/rpgmaker/NetJSON/issues/105) | 
+[ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) |  | No | No | 
+[Bond](https://github.com/Microsoft/bond) |  | [WIP](https://github.com/Microsoft/bond/issues/166) | [WIP](https://github.com/Microsoft/bond/issues/166) | 
 [protobuf-net](https://github.com/mgravell/protobuf-net) | Install-Package protobuf-net | [No](https://github.com/mgravell/protobuf-net/issues/159) | [No](https://github.com/mgravell/protobuf-net/issues/159)
 
 ## Testing
@@ -129,7 +129,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Stuntman](https://github.com/ritterim/stuntman) | Install-Package RimDev.Stuntman | [No](https://github.com/ritterim/stuntman/issues/62) | [No](https://github.com/ritterim/stuntman/issues/62) | [rimdev.io/stuntman](http://rimdev.io/stuntman/)
 [akka.net](https://github.com/akkadotnet/akka.net) | Install-Package Akka | [WIP](https://github.com/akkadotnet/akka.net/pull/2134) | [WIP](https://github.com/akkadotnet/akka.net/issues/992) | [getakka.net](http://getakka.net/)
 [GraphQL for .NET](https://github.com/graphql-dotnet/graphql-dotnet) | Install-Package GraphQL | [No](https://github.com/graphql-dotnet/graphql-dotnet/issues/43) | [No](https://github.com/graphql-dotnet/graphql-dotnet/issues/43)
-[Antlr](https://github.com/tunnelvisionlabs/antlr4cs) | Install-Package Antlr4 -Pre | [?](https://github.com/tunnelvisionlabs/antlr4cs/issues/144) | [?](https://github.com/antlr/antlrcs/issues/42) | [antlr.org](http://www.antlr.org)
+[Antlr](https://github.com/tunnelvisionlabs/antlr4cs) | Install-Package Antlr4 -Pre | [WIP](https://github.com/tunnelvisionlabs/antlr4cs/issues/144) | [WIP](https://github.com/antlr/antlrcs/issues/42) | [antlr.org](http://www.antlr.org)
 [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) |  |  |  | 
 [RestSharp](https://github.com/restsharp/RestSharp) |  |  |  | 
 [HtmlAgilityPack](https://htmlagilitypack.codeplex.com/) |  |  |  | 
