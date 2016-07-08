@@ -183,6 +183,6 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [James Singleton](http://unop.uk) has waived all copyright and related or neighboring rights to this work.
