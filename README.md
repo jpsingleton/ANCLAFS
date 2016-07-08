@@ -180,6 +180,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Azure SDK](https://github.com/Azure/azure-sdk-for-net) |  | ? | ? | 
 [Microsoft.Hadoop.Client](https://github.com/Azure/azure-sdk-for-net) |  |  |  | 
 [AWS SDK](https://github.com/aws/aws-sdk-net) |  | ? | ? | 
+[C# BitTorrent library](https://github.com/cheatdeath/research-bittorrent) |  | [No](https://github.com/jpsingleton/ANCLAFS/issues/6) | [No](https://github.com/jpsingleton/ANCLAFS/issues/6) | https://cheatdeath.github.io/research-bittorrent-doc
 
 ## License
 
