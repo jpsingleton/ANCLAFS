@@ -3,10 +3,10 @@
 
 In the process of writing a [book](https://www.packtpub.com/application-development/aspnet-core-10-high-performance) on ASP.NET Core and .NET Core I've done lots of research into what .NET libraries and frameworks are currently supported by these new platforms. Here are the results, hopefully you'll find this useful. Obviously these will change over time, send me a pull request if you'd like to make a correction or add something. This is a living document.
 
-# Categories
-
+## Table of Contents
  - [Experimenting](#experimenting)
  - [Feature Switching](#feature-switching)
+ - [Profiling](#profiling)
  - [O/RMs / DBs](#orms--dbs)
  - [Background Tasks](#background-tasks)
  - [Image Manipulation](#image-manipulation)
@@ -17,7 +17,9 @@ In the process of writing a [book](https://www.packtpub.com/application-developm
  - [Logging](#logging)
  - [Serialization](#serialization)
  - [Testing](#testing)
- - [Other](#other) 
+ - [Other](#other)
+
+# Categories
 
 ## Experimenting
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
@@ -123,7 +125,6 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [protobuf-net](https://github.com/mgravell/protobuf-net) | Install-Package protobuf-net | [No](https://github.com/mgravell/protobuf-net/issues/159) | [No](https://github.com/mgravell/protobuf-net/issues/159)
 
 ## Testing
-
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
 [xUnit.net](https://github.com/xunit/xunit) |  | ? | ? | 
@@ -196,7 +197,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [AWS SDK](https://github.com/aws/aws-sdk-net) |  | ? | ? | 
 [C# BitTorrent library](https://github.com/cheatdeath/research-bittorrent) |  | [No](https://github.com/jpsingleton/ANCLAFS/issues/6) | [No](https://github.com/jpsingleton/ANCLAFS/issues/6) | https://cheatdeath.github.io/research-bittorrent-doc
 
-## License
+# License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
