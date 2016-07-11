@@ -1,9 +1,6 @@
-# ANCLAFS
-## ASP.NET Core Library and Framework Support
+# ASP.NET Core Library and Framework Support
 
-In the process of writing a [book](https://unop.uk/book/) on ASP.NET Core and .NET Core I've done lots of research into what .NET libraries and frameworks are currently supported by these new platforms. Here are the results, hopefully you'll find this useful. Obviously these will change over time, send me a pull request if you'd like to make a correction or add something. This is a living document.
-
-## Table of Contents
+## Contents
  - [Experimenting](#experimenting)
  - [Feature Switching](#feature-switching)
  - [Profiling](#profiling)
@@ -19,7 +16,11 @@ In the process of writing a [book](https://unop.uk/book/) on ASP.NET Core and .N
  - [Testing](#testing)
  - [Other](#other)
 
-# Categories
+## Background
+
+In the process of writing a [book](https://unop.uk/book/) on ASP.NET Core and .NET Core, I've done lots of research into what .NET libraries and frameworks are currently supported by these new platforms. Here are the results (and more), hopefully you'll find this useful. Obviously these will change (and hopefully grow) over time. Send me a pull request if you'd like to make a correction or add something. This is a living document.
+
+---
 
 ## Experimenting
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
