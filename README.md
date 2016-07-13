@@ -48,7 +48,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [EF Core](https://github.com/aspnet/EntityFramework) | Install-Package EntityFramework.MicrosoftSqlServer -Pre | Yes | Yes | [efproject.net](http://docs.efproject.net/en/latest/)
 [NHibernate](https://github.com/nhibernate/nhibernate-core) |  |  |  | 
 [Npgsql](https://github.com/npgsql/Npgsql) | Install-Package Npgsql | ? | ? | http://www.npgsql.org
-[MongoDB Driver](https://github.com/mongodb/mongo-csharp-driver) |  |  |  | https://mongodb.github.io/mongo-csharp-driver
+[MongoDB Driver](https://github.com/mongodb/mongo-csharp-driver) |  | [WIP](https://jira.mongodb.org/browse/CSHARP-1177) | [WIP](https://jira.mongodb.org/browse/CSHARP-1177) | https://mongodb.github.io/mongo-csharp-driver
 [Couchbase](https://github.com/couchbase/couchbase-net-client) |  |  |  | 
 [Couchbase Lite for .NET](https://github.com/couchbase/couchbase-lite-net) |  |  |  | 
 [Elasticsearch.Net](https://github.com/elastic/elasticsearch-net) | Install-Package Elasticsearch.Net | ? | ? | https://www.elastic.co
@@ -162,7 +162,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Reactive Extensions](https://github.com/Reactive-Extensions/Rx.NET) |  |  |  | 
 [epplus](https://epplus.codeplex.com/) |  |  |  | 
 [Open XML SDK](https://github.com/OfficeDev/Open-XML-SDK) |  |  |  | 
-[EnterpriseLibrary](https://entlib.codeplex.com/) |  |  |  | 
+[EnterpriseLibrary](https://entlib.codeplex.com/) |  | N | N | 
 [MVVMLight](https://mvvmlight.codeplex.com/) | Install-Package MvvmLightLibs |  |  | http://www.mvvmlight.net
 [dotless](https://github.com/dotless/dotless) |  |  |  | 
 [Google.apis](https://github.com/google/google-api-dotnet-client) |  |  |  | 
@@ -194,6 +194,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [GenFu](https://github.com/MisterJames/GenFu) |  | ? | ? | 
 [MS Build](https://github.com/Microsoft/msbuild) |  |  |  | 
 [Azure SDK](https://github.com/Azure/azure-sdk-for-net) |  | ? | ? | 
+[Azure Storage SDK](https://github.com/Azure/azure-storage-net) | install-package WindowsAzure.Storage -Pre | Y (RTM/Preview) | Y (RTM/Preview) | https://azure.microsoft.com/en-us/documentation/services/storage/
 [Microsoft.Hadoop.Client](https://github.com/Azure/azure-sdk-for-net) |  |  |  | 
 [AWS SDK](https://github.com/aws/aws-sdk-net) |  | ? | ? | 
 [C# BitTorrent library](https://github.com/cheatdeath/research-bittorrent) |  | [No](https://github.com/jpsingleton/ANCLAFS/issues/6) | [No](https://github.com/jpsingleton/ANCLAFS/issues/6) | https://cheatdeath.github.io/research-bittorrent-doc
