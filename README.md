@@ -47,14 +47,14 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Simple.Data](https://github.com/markrendle/Simple.Data) | Install-Package Simple.Data.SqlServer | [WIP](https://blog.rendle.io/another-simple-data-update) | [WIP](https://blog.rendle.io/net-core-a-call-to-action/)  | [GH Issue](https://github.com/markrendle/Simple.Data/issues/389)
 [EF Core](https://github.com/aspnet/EntityFramework) | Install-Package EntityFramework.MicrosoftSqlServer -Pre | Yes | Yes | [efproject.net](http://docs.efproject.net/en/latest/)
 [NHibernate](https://github.com/nhibernate/nhibernate-core) |  |  |  | 
-[Npgsql](https://github.com/npgsql/Npgsql) | Install-Package Npgsql | ? | ? | http://www.npgsql.org
-[MongoDB Driver](https://github.com/mongodb/mongo-csharp-driver) |  | [WIP](https://jira.mongodb.org/browse/CSHARP-1177) | [WIP](https://jira.mongodb.org/browse/CSHARP-1177) | https://mongodb.github.io/mongo-csharp-driver
+[Npgsql](https://github.com/npgsql/Npgsql) | Install-Package Npgsql | ? | ? | [npgsql.org](http://www.npgsql.org)
+[MongoDB Driver](https://github.com/mongodb/mongo-csharp-driver) |  | [WIP](https://jira.mongodb.org/browse/CSHARP-1177) | [WIP](https://jira.mongodb.org/browse/CSHARP-1177) | [mongodb.github.io/mongo-csharp-driver](https://mongodb.github.io/mongo-csharp-driver)
 [Couchbase](https://github.com/couchbase/couchbase-net-client) |  |  |  | 
 [Couchbase Lite for .NET](https://github.com/couchbase/couchbase-lite-net) |  |  |  | 
-[Elasticsearch.Net](https://github.com/elastic/elasticsearch-net) | Install-Package Elasticsearch.Net | ? | ? | https://www.elastic.co
-[NEST](https://github.com/elastic/elasticsearch-net) | Install-Package NEST | ? | ? | https://www.elastic.co
+[Elasticsearch.Net](https://github.com/elastic/elasticsearch-net) | Install-Package Elasticsearch.Net | ? | ? | [elastic.**co**](https://www.elastic.co)
+[NEST](https://github.com/elastic/elasticsearch-net) | Install-Package NEST | ? | ? | [elastic.**co**](https://www.elastic.co)
 [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) |  | ? | ? | 
-[Lucene.NET](https://github.com/apache/lucenenet) | Install-Package Lucene.Net |  |  | https://lucenenet.apache.org
+[Lucene.NET](https://github.com/apache/lucenenet) | Install-Package Lucene.Net |  |  | [lucenenet.apache.org](https://lucenenet.apache.org)
 [CassandraCSharpDriver](https://github.com/datastax/csharp-driver) | Install-Package CassandraCSharpDriver |  |  | 
 [RavenDB](https://github.com/ravendb/ravendb) |  |  |  | 
 
@@ -101,7 +101,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Autofac](https://github.com/autofac/Autofac) | Install-Package Autofac -Pre | [Yes](https://github.com/autofac/Autofac/pull/672) | [WIP](https://github.com/autofac/Autofac/issues/594) | [autofac.org](http://autofac.org/)
 [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) | Install-Package SimpleInjector -Version 3.1.5 | Yes | Yes | [simpleinjector.org](https://simpleinjector.org)
 [Unity](https://github.com/unitycontainer/unity) | Install-Package Unity-CoreClr -Pre | [?](https://github.com/unitycontainer/unity/issues/42) | [?](https://github.com/unitycontainer/unity/issues/63)
-[StructureMap](https://github.com/structuremap/structuremap) | Install-Package StructureMap | Yes | Yes | https://structuremap.github.io
+[StructureMap](https://github.com/structuremap/structuremap) | Install-Package StructureMap | Yes | Yes | [structuremap.github.io](https://structuremap.github.io)
 [CommonServiceLocator](https://github.com/unitycontainer/commonservicelocator) |  |  |  | 
 ASP.NET Core contains built-in [DI](https://docs.asp.net/en/latest/fundamentals/dependency-injection.html)
 
@@ -134,7 +134,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) |  |  |  | 
 [Selenium](https://github.com/SeleniumHQ/selenium) |  |  |  | 
 [SpecFlow](https://github.com/techtalk/SpecFlow) |  |  |  | 
-[Shouldly](https://github.com/shouldly/shouldly) | Install-Package Shouldly |  |  | https://shouldly.readthedocs.io
+[Shouldly](https://github.com/shouldly/shouldly) | Install-Package Shouldly |  |  | [shouldly.readthedocs.io](https://shouldly.readthedocs.io)
 
 ## Other
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
@@ -162,20 +162,20 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Reactive Extensions](https://github.com/Reactive-Extensions/Rx.NET) |  |  |  | 
 [epplus](https://epplus.codeplex.com/) |  |  |  | 
 [Open XML SDK](https://github.com/OfficeDev/Open-XML-SDK) |  |  |  | 
-[EnterpriseLibrary](https://entlib.codeplex.com/) |  | N | N | 
-[MVVMLight](https://mvvmlight.codeplex.com/) | Install-Package MvvmLightLibs |  |  | http://www.mvvmlight.net
+[EnterpriseLibrary](https://entlib.codeplex.com/) |  | No | No | 
+[MVVMLight](https://mvvmlight.codeplex.com/) | Install-Package MvvmLightLibs |  |  | [mvvmlight.net](http://www.mvvmlight.net)
 [dotless](https://github.com/dotless/dotless) |  |  |  | 
 [Google.apis](https://github.com/google/google-api-dotnet-client) |  |  |  | 
 [RhinoMocks](https://github.com/meisinger/rhino-mocks) |  |  |  | 
-[Twilio](https://github.com/twilio/twilio-csharp) | Install-Package Twilio -Pre | ? | ? | https://www.twilio.com/api
-[SharpZipLib](https://github.com/icsharpcode/SharpZipLib) | Install-Package SharpZipLib |  |  | https://icsharpcode.github.io/SharpZipLib
+[Twilio](https://github.com/twilio/twilio-csharp) | Install-Package Twilio -Pre | ? | ? | [twilio.com/api](https://www.twilio.com/api)
+[SharpZipLib](https://github.com/icsharpcode/SharpZipLib) | Install-Package SharpZipLib |  |  | [icsharpcode.github.io/SharpZipLib](https://icsharpcode.github.io/SharpZipLib)
 [BouncyCastle](https://github.com/bcgit/bc-csharp) |  | ? | ? | 
-[Facebook SDK](https://github.com/facebook-csharp-sdk/facebook-csharp-sdk) | Install-Package Facebook |  |  | https://www.facebook.com/csharpsdk
+[Facebook SDK](https://github.com/facebook-csharp-sdk/facebook-csharp-sdk) | Install-Package Facebook |  |  | [facebook.com/csharpsdk](https://www.facebook.com/csharpsdk)
 [NodaTime](https://github.com/nodatime/nodatime) |  |  |  | 
 [SSH.NET](https://github.com/sshnet/SSH.NET) |  |  |  | 
 [Mono.Cecil](https://github.com/jbevain/cecil/) |  |  |  | 
-[Octokit](https://github.com/octokit/octokit.net) | Install-Package Octokit |  |  | https://developer.github.com/v3
-[Octo.exe](https://github.com/OctopusDeploy/Octo.exe) |  |  |  | https://octopus.com
+[Octokit](https://github.com/octokit/octokit.net) | Install-Package Octokit |  |  | [developer.github.com/v3](https://developer.github.com/v3)
+[Octo.exe](https://github.com/OctopusDeploy/Octo.exe) |  |  |  | [octopus.com](https://octopus.com)
 [IdentityServer4](https://github.com/IdentityServer/IdentityServer4) |  | ? | ? | 
 [PushSharp](https://github.com/Redth/PushSharp) |  |  |  | 
 [CodeContracts](https://github.com/Microsoft/CodeContracts) |  |  |  | 
@@ -184,20 +184,20 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Mailkit](http://github.com/jstedfast/MailKit) |  | ? | ? | 
 [Jint](https://github.com/sebastienros/jint) |  | ? | ? | 
 [IdentityManager ](https://github.com/IdentityManager/IdentityManager) |  | ? | ? | 
-[MEF2](https://github.com/dotnet/corefx/) | Install-Package Microsoft.Composition | ? | ? | https://mef.codeplex.com
-[XMPP](https://github.com/ubiety/xmpp) | Install-Package XMPP |  |  | https://ubiety.github.io/xmpp
+[MEF2](https://github.com/dotnet/corefx/) | Install-Package Microsoft.Composition | ? | ? | [mef.codeplex.com](https://mef.codeplex.com)
+[XMPP](https://github.com/ubiety/xmpp) | Install-Package XMPP |  |  | [ubiety.github.io/xmpp](https://ubiety.github.io/xmpp)
 [System.Net.Mail](https://github.com/joshcomley/System.Net.Mail) | Install-Package System.Net.Mail -Pre |  |  | 
 [Salesforce Toolkits for .NET](https://github.com/developerforce/Force.com-Toolkit-for-NET) |  |  |  | 
-[OData](https://github.com/OData/odata.net/) | Install-Package Microsoft.AspNet.OData | ? | ? | https://odata.github.io
-[Orchard](https://github.com/OrchardCMS/Orchard2) |  |  |  | http://orchardproject.net
+[OData](https://github.com/OData/odata.net/) | Install-Package Microsoft.AspNet.OData | ? | ? | [odata.github.io](https://odata.github.io)
+[Orchard](https://github.com/OrchardCMS/Orchard2) |  |  |  | [orchardproject.net](http://orchardproject.net)
 [YesSql](https://github.com/sebastienros/yessql) |  | ? | ? | 
 [GenFu](https://github.com/MisterJames/GenFu) |  | ? | ? | 
 [MS Build](https://github.com/Microsoft/msbuild) |  |  |  | 
-[Azure SDK](https://github.com/Azure/azure-sdk-for-net) |  | ? | ? | 
-[Azure Storage SDK](https://github.com/Azure/azure-storage-net) | install-package WindowsAzure.Storage -Pre | Y (RTM/Preview) | Y (RTM/Preview) | https://azure.microsoft.com/en-us/documentation/services/storage/
+[Azure SDK](https://github.com/Azure/azure-sdk-for-net) |  | ? | ? | [azure.microsoft.com](https://azure.microsoft.com/en-us/develop/net/)
+[Azure Storage SDK](https://github.com/Azure/azure-storage-net) | install-package WindowsAzure.Storage -Pre | Yes | Yes | [azure.microsoft.com](https://azure.microsoft.com/en-us/documentation/services/storage/)
 [Microsoft.Hadoop.Client](https://github.com/Azure/azure-sdk-for-net) |  |  |  | 
 [AWS SDK](https://github.com/aws/aws-sdk-net) |  | ? | ? | 
-[C# BitTorrent library](https://github.com/cheatdeath/research-bittorrent) |  | [No](https://github.com/jpsingleton/ANCLAFS/issues/6) | [No](https://github.com/jpsingleton/ANCLAFS/issues/6) | https://cheatdeath.github.io/research-bittorrent-doc
+[C# BitTorrent library](https://github.com/cheatdeath/research-bittorrent) |  | [No](https://github.com/jpsingleton/ANCLAFS/issues/6) | [No](https://github.com/jpsingleton/ANCLAFS/issues/6) | [cheatdeath.github.io/research-bittorrent-doc](https://cheatdeath.github.io/research-bittorrent-doc)
 
 # License
 
