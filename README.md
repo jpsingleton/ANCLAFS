@@ -198,6 +198,8 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Microsoft.Hadoop.Client](https://github.com/Azure/azure-sdk-for-net) |  |  |  | 
 [AWS SDK](https://github.com/aws/aws-sdk-net) |  | ? | ? | 
 [C# BitTorrent library](https://github.com/cheatdeath/research-bittorrent) |  | [No](https://github.com/jpsingleton/ANCLAFS/issues/6) | [No](https://github.com/jpsingleton/ANCLAFS/issues/6) | [cheatdeath.github.io/research-bittorrent-doc](https://cheatdeath.github.io/research-bittorrent-doc)
+[FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) |  | Yes | Yes |
+[Quartz.NET](https://github.com/quartznet/quartznet) |  | [WIP](https://github.com/quartznet/quartznet/issues/355) | [WIP](https://github.com/quartznet/quartznet/issues/355) | [quartz-scheduler.net](http://www.quartz-scheduler.net/)
 
 # License
 
