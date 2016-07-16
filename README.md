@@ -88,7 +88,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 ## Web
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
-[Nancy](https://github.com/NancyFx/Nancy/tree/coreclr) | Install-Package Nancy -Pre | [WIP](http://thecodejunkie.com/2016/02/22/working-full-time-on-getting-nancy-running-on-coreclr) | [WIP](https://github.com/NancyFx/Nancy/issues/1959) | [nancyfx.org](http://nancyfx.org)
+[Nancy](https://github.com/NancyFx/Nancy) | Install-Package Nancy -Pre | Yes | Yes | [nancyfx.org](http://nancyfx.org)
 [SignalR](https://github.com/SignalR/SignalR) | Install-Package Microsoft.AspNet.SignalR | [WIP](https://github.com/aspnet/home/wiki/roadmap#future-work) | [WIP](https://github.com/aspnet/home/wiki/roadmap#future-work) | [signalr.net](http://signalr.net/)
 [ReactJS.NET](https://github.com/reactjs/React.NET) | Install-Package React.AspNet | [No](http://reactjs.net/guides/mono.html) | [Yes](http://reactjs.net/2016/05/2.4.0-release.html) | [ReactJS.NET](http://reactjs.net/)
 [Swashbuckle](https://github.com/domaindrivendev/Ahoy) | Install-Package Swashbuckle -Pre | Yes | Yes | 
