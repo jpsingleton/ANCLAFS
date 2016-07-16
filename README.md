@@ -47,7 +47,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Simple.Data](https://github.com/markrendle/Simple.Data) | Install-Package Simple.Data.SqlServer | [WIP](https://blog.rendle.io/another-simple-data-update) | [WIP](https://blog.rendle.io/net-core-a-call-to-action/)  | [GH Issue](https://github.com/markrendle/Simple.Data/issues/389)
 [EF Core](https://github.com/aspnet/EntityFramework) | Install-Package EntityFramework.MicrosoftSqlServer -Pre | Yes | Yes | [efproject.net](http://docs.efproject.net/en/latest/)
 [NHibernate](https://github.com/nhibernate/nhibernate-core) |  |  |  | 
-[Npgsql](https://github.com/npgsql/Npgsql) | Install-Package Npgsql | ? | ? | [npgsql.org](http://www.npgsql.org)
+[Npgsql](https://github.com/npgsql/Npgsql) | Install-Package Npgsql | Yes | Yes | [npgsql.org](http://www.npgsql.org)
 [MongoDB Driver](https://github.com/mongodb/mongo-csharp-driver) |  | [WIP](https://jira.mongodb.org/browse/CSHARP-1177) | [WIP](https://jira.mongodb.org/browse/CSHARP-1177) | [mongodb.github.io/mongo-csharp-driver](https://mongodb.github.io/mongo-csharp-driver)
 [Couchbase](https://github.com/couchbase/couchbase-net-client) |  |  |  | 
 [Couchbase Lite for .NET](https://github.com/couchbase/couchbase-lite-net) |  |  |  | 
