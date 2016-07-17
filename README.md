@@ -57,6 +57,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Lucene.NET](https://github.com/apache/lucenenet) | Install-Package Lucene.Net |  |  | [lucenenet.apache.org](https://lucenenet.apache.org)
 [CassandraCSharpDriver](https://github.com/datastax/csharp-driver) | Install-Package CassandraCSharpDriver |  |  | 
 [RavenDB](https://github.com/ravendb/ravendb) |  |  |  | 
+[Marten](https://github.com/jasperfx/marten) | Install-Package Marten | Yes | Yes | [jasperfx.github.io/marten](http://jasperfx.github.io/marten/)
 
 ## Background Tasks
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
