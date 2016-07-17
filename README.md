@@ -129,7 +129,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 ## Testing
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
-[xUnit.net](https://github.com/xunit/xunit) |  | ? | ? | 
+[xUnit.net](https://github.com/xunit/xunit) |  | [WIP](http://xunit.github.io/docs/getting-started-dotnet-core.html) | [WIP](http://xunit.github.io/docs/getting-started-dotnet-core.html) | 
 [Nunit](https://github.com/nunit/nunit) |  | ? | ? | 
 [Moq](https://github.com/moq/moq4) |  |  |  | 
 [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) |  |  |  | 
