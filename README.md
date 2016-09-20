@@ -91,7 +91,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 ------- | --------------------- | ----------------- | -------------------- | -------
 [Nancy](https://github.com/NancyFx/Nancy) | Install-Package Nancy -Pre | Yes | Yes | [nancyfx.org](http://nancyfx.org)
 [SignalR](https://github.com/SignalR/SignalR) | Install-Package Microsoft.AspNet.SignalR | [WIP](https://github.com/aspnet/home/wiki/roadmap#future-work) | [WIP](https://github.com/aspnet/home/wiki/roadmap#future-work) | [signalr.net](http://signalr.net/)
-[ReactJS.NET](https://github.com/reactjs/React.NET) | Install-Package React.AspNet | [No](http://reactjs.net/guides/mono.html) | [Yes](http://reactjs.net/2016/05/2.4.0-release.html) | [ReactJS.NET](http://reactjs.net/)
+[ReactJS.NET](https://github.com/reactjs/React.NET) | Install-Package React.AspNet | [WIP](https://github.com/reactjs/React.NET/milestone/4) | [Yes](http://reactjs.net/2016/05/2.4.0-release.html) | [ReactJS.NET](http://reactjs.net/)
 [Swashbuckle](https://github.com/domaindrivendev/Ahoy) | Install-Package Swashbuckle -Pre | Yes | Yes | 
 
 ## DI / IoC Containers
