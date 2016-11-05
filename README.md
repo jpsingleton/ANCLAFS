@@ -199,7 +199,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Microsoft.Hadoop.Client](https://github.com/Azure/azure-sdk-for-net) |  |  |  | 
 [AWS SDK](https://github.com/aws/aws-sdk-net) | Install-Package AWSSDK.Core -Pre | [WIP](https://www.nuget.org/packages/AWSSDK.Core/3.2.5-beta) | [WIP](https://www.nuget.org/packages/AWSSDK.Core/3.2.5-beta) | 
 [C# BitTorrent library](https://github.com/cheatdeath/research-bittorrent) |  | [No](https://github.com/jpsingleton/ANCLAFS/issues/6) | [No](https://github.com/jpsingleton/ANCLAFS/issues/6) | [cheatdeath.github.io/research-bittorrent-doc](https://cheatdeath.github.io/research-bittorrent-doc)
-[FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) |  | [Yes](https://github.com/fluentscheduler/FluentScheduler#using-it-with-net-core) | [No](https://github.com/fluentscheduler/FluentScheduler/issues/94) |
+[FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) |  | [Yes](https://github.com/fluentscheduler/FluentScheduler#using-it-with-net-core) | [Yes](https://github.com/fluentscheduler/FluentScheduler/issues/94) |
 [Quartz.NET](https://github.com/quartznet/quartznet) |  | [WIP](https://github.com/quartznet/quartznet/issues/355) | [WIP](https://github.com/quartznet/quartznet/issues/355) | [quartz-scheduler.net](http://www.quartz-scheduler.net/)
 [NBitcoin](https://github.com/MetacoSA/NBitcoin) | Install-Package NBitcoin | Yes 
 
