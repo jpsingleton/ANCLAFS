@@ -120,7 +120,7 @@ ASP.NET Core contains built-in [logging](https://docs.asp.net/en/latest/fundamen
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
 [JSON.NET](https://github.com/JamesNK/Newtonsoft.Json) | Install-Package Newtonsoft.Json | Yes | Yes | [newtonsoft.com/json](http://www.newtonsoft.com/json)
-[Jil](https://github.com/kevin-montrose/Jil) |  | [WIP](https://github.com/kevin-montrose/Jil/pull/185) | [WIP](https://github.com/kevin-montrose/Jil/pull/185) | 
+[Jil](https://github.com/kevin-montrose/Jil) |  | Yes | Yes | 
 [NetJSON](https://github.com/rpgmaker/NetJSON) |  | [WIP](https://github.com/rpgmaker/NetJSON/issues/105) | [WIP](https://github.com/rpgmaker/NetJSON/issues/105) | 
 [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) |  | No | No | 
 [Bond](https://github.com/Microsoft/bond) |  | [WIP](https://github.com/Microsoft/bond/issues/166) | [WIP](https://github.com/Microsoft/bond/issues/166) | 
