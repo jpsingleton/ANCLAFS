@@ -123,7 +123,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Jil](https://github.com/kevin-montrose/Jil) |  | Yes | Yes | 
 [NetJSON](https://github.com/rpgmaker/NetJSON) |  | [WIP](https://github.com/rpgmaker/NetJSON/issues/105) | [WIP](https://github.com/rpgmaker/NetJSON/issues/105) | 
 [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) |  | No | No | 
-[Bond](https://github.com/Microsoft/bond) |  | [WIP](https://github.com/Microsoft/bond/issues/166) | [WIP](https://github.com/Microsoft/bond/issues/166) | 
+[Bond](https://github.com/Microsoft/bond) |  | Yes | Yes |
 [protobuf-net](https://github.com/mgravell/protobuf-net) | Install-Package protobuf-net | [No](https://github.com/mgravell/protobuf-net/issues/159) | [No](https://github.com/mgravell/protobuf-net/issues/159)
 
 ## Testing
