@@ -133,7 +133,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Nunit](https://github.com/nunit/nunit) |  | Yes | Yes | 
 [Nunit CLI Test Runner](https://github.com/nunit/dotnet-test-nunit) | Install-Package dotnet-test-nunit -Pre | [WIP Pre](https://www.nuget.org/packages/dotnet-test-nunit/) | [WIP Pre](https://www.nuget.org/packages/dotnet-test-nunit/) |
 [Moq](https://github.com/moq/moq4) |  |  |  | 
-[FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) | Install-Package FakeItEasy -Pre | [WIP Pre](https://github.com/FakeItEasy/FakeItEasy/issues/531) | [WIP Pre](https://github.com/FakeItEasy/FakeItEasy/issues/531) | 
+[FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) | Install-Package FakeItEasy | Yes | Yes | 
 [Selenium](https://github.com/SeleniumHQ/selenium) |  |  |  | 
 [SpecFlow](https://github.com/techtalk/SpecFlow) |  |  |  | 
 [Shouldly](https://github.com/shouldly/shouldly) | Install-Package Shouldly |  |  | [shouldly.readthedocs.io](https://shouldly.readthedocs.io)
