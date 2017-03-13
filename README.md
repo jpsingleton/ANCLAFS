@@ -203,6 +203,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) |  | [Yes](https://github.com/fluentscheduler/FluentScheduler#using-it-with-net-core) | [Yes](https://github.com/fluentscheduler/FluentScheduler/issues/94) |
 [Quartz.NET](https://github.com/quartznet/quartznet) |  | [WIP](https://github.com/quartznet/quartznet/issues/355) | [WIP](https://github.com/quartznet/quartznet/issues/355) | [quartz-scheduler.net](http://www.quartz-scheduler.net/)
 [NBitcoin](https://github.com/MetacoSA/NBitcoin) | Install-Package NBitcoin | Yes 
+[Web Markup Minifier](https://github.com/Taritsyn/WebMarkupMin) | Install-Package WebMarkupMin.Core | Yes | Yes | 
 
 # License
 
