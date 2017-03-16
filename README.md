@@ -80,7 +80,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [MassTransit](https://github.com/MassTransit/MassTransit) | Install-Package MassTransit.RabbitMQ | [WIP](https://github.com/MassTransit/MassTransit/issues/527) | [WIP](https://github.com/MassTransit/MassTransit/issues/527) | [masstransit-project.com](http://masstransit-project.com)
 [RdKafka](https://github.com/ah-/rdkafka-dotnet) | Install-Package RdKafka | Yes | Yes | [ah-.github.io/rdkafka-dotnet](http://ah-.github.io/rdkafka-dotnet/)
 [NServiceBus](https://github.com/Particular/NServiceBus) |  |  |  | 
-[Brighter](https://github.com/BrighterCommand/Paramore.Brighter) | Install-Package Paramore.Brighter.CommandProcessor -Version 6.1.8 | Yes | Yes |[Paramore] (https://brightercommand.github.io/Paramore.Brighter/)|
+[Brighter](https://github.com/BrighterCommand/Paramore.Brighter) | Install-Package Paramore.Brighter.CommandProcessor -Version 6.1.8 | Yes | Yes |[Paramore](https://brightercommand.github.io/Paramore.Brighter/)
 
 ## Windows Services
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
