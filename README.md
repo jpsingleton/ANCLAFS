@@ -156,7 +156,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [FluentAssertions](https://github.com/dennisdoomen/fluentassertions) |  | ? | ? | 
 [FluentValidation](https://github.com/JeremySkinner/FluentValidation) |  |  |  | 
 [NSubstitute](https://github.com/nsubstitute/NSubstitute) |  |  |  | 
-[csvhelper](https://github.com/JoshClose/CsvHelper) |  |  |  | 
+[CsvHelper](https://github.com/JoshClose/CsvHelper) | Install-Package CsvHelper | Yes | Yes | [joshclose.github.io/CsvHelper](https://joshclose.github.io/CsvHelper/)
 [Polly](https://github.com/App-vNext/Polly) | Install-Package Polly | ? | ? | 
 [slow-cheetah](https://github.com/sayedihashimi/slow-cheetah) |  |  |  | 
 [iTextSharp](https://github.com/itext/itextsharp) |  |  |  | 
