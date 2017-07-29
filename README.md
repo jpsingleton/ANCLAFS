@@ -75,8 +75,8 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
 [RestBus](https://github.com/tenor/RestBus) | Install-Package RestBus.AspNet -Pre ([guide](https://github.com/tenor/RestBus/wiki/ASP.NET-Core-service-%28RabbitMQ-callable%29)) | Yes | Yes | [restbus.org](http://restbus.org) ([Blog](http://ahuwanya.net/blog/post/Introducing-RestBus))
-[EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) | Install-Package EasyNetQ | [WIP](https://github.com/EasyNetQ/EasyNetQ/issues/508) | [WIP](https://github.com/EasyNetQ/EasyNetQ/issues/508) | [easynetq.com](http://easynetq.com)
-[RabbitMQ client](https://github.com/rabbitmq/rabbitmq-dotnet-client) | Install-Package RabbitMQ.Client | [WIP](https://github.com/rabbitmq/rabbitmq-dotnet-client/issues/148) | [WIP](https://github.com/rabbitmq/rabbitmq-dotnet-client/issues/148) | [rabbitmq.com](https://www.rabbitmq.com/dotnet.html)
+[EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) | Install-Package EasyNetQ | [Yes](https://github.com/EasyNetQ/EasyNetQ/issues/508) | [Yes](https://github.com/EasyNetQ/EasyNetQ/issues/508) | [easynetq.com](http://easynetq.com)
+[RabbitMQ client](https://github.com/rabbitmq/rabbitmq-dotnet-client) | Install-Package RabbitMQ.Client | [Yes](https://github.com/rabbitmq/rabbitmq-dotnet-client/issues/148) | [Yes](https://github.com/rabbitmq/rabbitmq-dotnet-client/issues/148) | [rabbitmq.com](https://www.rabbitmq.com/dotnet.html)
 [MassTransit](https://github.com/MassTransit/MassTransit) | Install-Package MassTransit.RabbitMQ | [WIP](https://github.com/MassTransit/MassTransit/issues/527) | [WIP](https://github.com/MassTransit/MassTransit/issues/527) | [masstransit-project.com](http://masstransit-project.com)
 [RdKafka](https://github.com/ah-/rdkafka-dotnet) | Install-Package RdKafka | Yes | Yes | [ah-.github.io/rdkafka-dotnet](http://ah-.github.io/rdkafka-dotnet/)
 [NServiceBus](https://github.com/Particular/NServiceBus) |  |  |  | 
@@ -111,7 +111,7 @@ ASP.NET Core contains built-in [DI](https://docs.asp.net/en/latest/fundamentals/
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
 [Serilog](https://github.com/serilog/serilog) |  | ? | ? | 
-[NLog](https://github.com/NLog/Nlog) |  |  |  | 
+[NLog](https://github.com/NLog/Nlog) |  | Yes | Yes | [nlog-project.org](http://nlog-project.org/)
 [common.logging](https://github.com/net-commons/common-logging) |  |  |  | 
 [log4net](https://github.com/apache/log4net) |  |  |  | 
 [ELM](https://github.com/aspnet/Diagnostics) | Install-Package Microsoft.AspNetCore.Diagnostics.Elm  |  |  | 
