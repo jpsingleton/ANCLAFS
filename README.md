@@ -25,7 +25,7 @@ In the process of writing a [book](https://unop.uk/book/) on ASP.NET Core and .N
 ## Experimenting
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
-[Scientist.NET](https://github.com/Haacked/Scientist.net) | Install-Package Scientist -Pre | Yes | Yes | [Blog](http://haacked.com/archive/2016/01/20/scientist)
+[Scientist.NET](https://github.com/Haacked/Scientist.net) | Install-Package scientist | Yes | Yes | [Blog](http://haacked.com/archive/2016/01/20/scientist)
 
 ## Feature Switching
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
