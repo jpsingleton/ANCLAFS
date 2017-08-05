@@ -105,6 +105,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Unity](https://github.com/unitycontainer/unity) | Install-Package Unity-CoreClr -Pre | [?](https://github.com/unitycontainer/unity/issues/42) | [?](https://github.com/unitycontainer/unity/issues/63)
 [StructureMap](https://github.com/structuremap/structuremap) | Install-Package StructureMap | Yes | Yes | [structuremap.github.io](https://structuremap.github.io)
 [CommonServiceLocator](https://github.com/unitycontainer/commonservicelocator) |  |  |  | 
+
 ASP.NET Core contains built-in [DI](https://docs.asp.net/en/latest/fundamentals/dependency-injection.html)
 
 ## Logging
@@ -114,7 +115,9 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [NLog](https://github.com/NLog/Nlog) |  | Yes | Yes | [nlog-project.org](http://nlog-project.org/)
 [common.logging](https://github.com/net-commons/common-logging) |  |  |  | 
 [log4net](https://github.com/apache/log4net) |  |  |  | 
-[ELM](https://github.com/aspnet/Diagnostics) | Install-Package Microsoft.AspNetCore.Diagnostics.Elm  |  |  | 
+[ELM](https://github.com/aspnet/Diagnostics) | Install-Package Microsoft.AspNetCore.Diagnostics.Elm  | Yes | Yes | 
+[ELMAH](https://github.com/elmah/Elmah) |  | [No](https://github.com/elmah/Elmah/issues/407) | [No](https://github.com/elmah/Elmah/issues/407) | [elmah.github.io](https://elmah.github.io/)
+
 ASP.NET Core contains built-in [logging](https://docs.asp.net/en/latest/fundamentals/logging.html)
 
 ## Serialization
