@@ -145,7 +145,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 ## Other
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
-[Orleans](https://github.com/dotnet/orleans) | [Multiple](https://github.com/dotnet/orleans#installation) | [WIP](https://github.com/dotnet/orleans/tree/coreclr-compatibility) | [WIP](https://github.com/dotnet/orleans/issues/368) | [dotnet.github.io/orleans](https://dotnet.github.io/orleans/)
+[Orleans](https://github.com/dotnet/orleans) | [Multiple](https://github.com/dotnet/orleans#installation) | [WIP](https://github.com/dotnet/orleans/issues/2143) | [WIP](https://github.com/dotnet/orleans/issues/2145) | [dotnet.github.io/orleans](https://dotnet.github.io/orleans/)
 [Huxley](https://github.com/jpsingleton/Huxley) | N/A | [WIP](https://github.com/jpsingleton/Huxley/issues/44) | [WIP](https://github.com/jpsingleton/Huxley/issues/44) | [huxley.unop.uk](https://huxley.unop.uk/)
 [AutoMapper](https://github.com/AutoMapper/AutoMapper) | Install-Package AutoMapper -Pre | Yes | Yes | [automapper.org](http://automapper.org/)
 [Stuntman](https://github.com/ritterim/stuntman) | Install-Package RimDev.Stuntman | [No](https://github.com/ritterim/stuntman/issues/62) | [No](https://github.com/ritterim/stuntman/issues/62) | [rimdev.io/stuntman](http://rimdev.io/stuntman/)
