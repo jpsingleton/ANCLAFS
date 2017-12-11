@@ -133,7 +133,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 ## Testing
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
-[xUnit.net](https://github.com/xunit/xunit) |  | [WIP](http://xunit.github.io/docs/getting-started-dotnet-core.html) | [WIP](http://xunit.github.io/docs/getting-started-dotnet-core.html) | 
+[xUnit.net](https://github.com/xunit/xunit) | Install-Package xunit | Yes | Yes | [xunit.github.io](https://xunit.github.io/)
 [Nunit](https://github.com/nunit/nunit) |  | Yes | Yes | 
 [Nunit CLI Test Runner](https://github.com/nunit/dotnet-test-nunit) | Install-Package dotnet-test-nunit -Pre | [WIP Pre](https://www.nuget.org/packages/dotnet-test-nunit/) | [WIP Pre](https://www.nuget.org/packages/dotnet-test-nunit/) |
 [Moq](https://github.com/moq/moq4) |  |  |  | 
@@ -141,6 +141,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Selenium](https://github.com/SeleniumHQ/selenium) |  |  |  | 
 [SpecFlow](https://github.com/techtalk/SpecFlow) |  |  |  | 
 [Shouldly](https://github.com/shouldly/shouldly) | Install-Package Shouldly |  |  | [shouldly.readthedocs.io](https://shouldly.readthedocs.io)
+[xBehave.net](https://github.com/xbehave/xbehave.net) | Install-Package Xbehave | Yes | Yes | [xbehave.github.io](http://xbehave.github.io/)
 
 ## Other
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
