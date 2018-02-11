@@ -30,8 +30,8 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 ## Feature Switching
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
 ------- | --------------------- | ----------------- | -------------------- | -------
-[FeatureSwitcher](https://github.com/mexx/FeatureSwitcher) | Install-Package FeatureSwitcher | No | No
-[FeatureToggle](https://github.com/jason-roberts/FeatureToggle) | Install-Package FeatureToggle | Yes (v2+) | Yes (v2+) | [Blog](http://dontcodetired.com/blog/?tag=/featuretoggle)
+[FeatureSwitcher](https://github.com/mexx/FeatureSwitcher) | Install-Package FeatureSwitcher | Yes (v2+) | Yes (v2+)
+[FeatureToggle](https://github.com/jason-roberts/FeatureToggle) | Install-Package FeatureToggle | Yes (v4+) | Yes (v4+) | [Blog](http://dontcodetired.com/blog/?tag=/featuretoggle)
 
 ## Profiling
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
