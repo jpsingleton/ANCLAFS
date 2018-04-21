@@ -209,7 +209,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [Quartz.NET](https://github.com/quartznet/quartznet) |  | [WIP](https://github.com/quartznet/quartznet/issues/355) | [WIP](https://github.com/quartznet/quartznet/issues/355) | [quartz-scheduler.net](http://www.quartz-scheduler.net/)
 [NBitcoin](https://github.com/MetacoSA/NBitcoin) | Install-Package NBitcoin | Yes 
 [Web Markup Minifier](https://github.com/Taritsyn/WebMarkupMin) | Install-Package WebMarkupMin.Core | Yes | Yes | 
-[LibGit2Sharp](https://github.com/libgit2/libgit2sharp) | Install-Package LibGit2Sharp -Pre | [Yes](https://github.com/libgit2/libgit2sharp/pull/1318) | [Yes](https://github.com/libgit2/libgit2sharp/pull/1318) | [libgit2.org](http://libgit2.org/)
+[LibGit2Sharp](https://github.com/libgit2/libgit2sharp) | Install-Package LibGit2Sharp | Yes | Yes | [libgit2.org](http://libgit2.org/)
 [FastMember](https://github.com/mgravell/fast-member) | Install-Package FastMember | Yes | Yes | 
 [NFluent](https://github.com/tpierrain/NFluent) | Install-Package NFluent | Yes | Yes | [n-fluent.net](http://www.n-fluent.net/)
 
