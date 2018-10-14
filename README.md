@@ -159,6 +159,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [AngleSharp](https://github.com/AngleSharp/AngleSharp) |  |  |  | 
 [FluentAssertions](https://github.com/dennisdoomen/fluentassertions) |  | ? | ? | 
 [FluentValidation](https://github.com/JeremySkinner/FluentValidation) |  |  |  | 
+[Guard](https://github.com/safakgur/guard) | Install-Package Dawn.Guard | Yes | Yes | 
 [NSubstitute](https://github.com/nsubstitute/NSubstitute) |  |  |  | 
 [CsvHelper](https://github.com/JoshClose/CsvHelper) | Install-Package CsvHelper | Yes | Yes | [joshclose.github.io/CsvHelper](https://joshclose.github.io/CsvHelper/)
 [Polly](https://github.com/App-vNext/Polly) | Install-Package Polly | ? | ? | 
