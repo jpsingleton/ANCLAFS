@@ -74,7 +74,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 ------- | --------------------- | ----------------- | -------------------- | -------
 [ImageResizer](https://github.com/imazen/resizer) | Install-Package ImageResizer.WebConfig | [WIP](https://github.com/imazen/imageflow) | [WIP](https://github.com/imazen/imageflow) | [imageresizing.net](http://imageresizing.net)
 [DynamicImage](https://github.com/tgjones/dynamic-image) | Install-Package DynamicImage | No | No | [dynamicimage.apphb.com](https://dynamicimage.apphb.com/)
-[ImageSharp](https://github.com/JimBobSquarePants/ImageSharp) | Not yet ([myget](https://www.myget.org/gallery/imagesharp)) | WIP | WIP | [ImageSharp](https://github.com/JimBobSquarePants/ImageSharp)
+[ImageSharp](https://github.com/JimBobSquarePants/ImageSharp) | Install-Package SixLabors.ImageSharp | Yes | Yes | [ImageSharp](https://github.com/JimBobSquarePants/ImageSharp)
 
 ## Message Queuing
 Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Website
