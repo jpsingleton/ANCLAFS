@@ -121,7 +121,8 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [common.logging](https://github.com/net-commons/common-logging) |  |  |  | 
 [log4net](https://github.com/apache/log4net) |  |  |  | 
 [ELM](https://github.com/aspnet/Diagnostics) | Install-Package Microsoft.AspNetCore.Diagnostics.Elm  | Yes | Yes | 
-[ELMAH](https://github.com/elmah/Elmah) |  | [No](https://github.com/elmah/Elmah/issues/407) | [No](https://github.com/elmah/Elmah/issues/407) | [elmah.github.io](https://elmah.github.io/)
+[ELMAH](https://github.com/elmah/Elmah) |  | [No](https://github.com/elmah/Elmah/issues/407) | [No](https://github.com/elmah/Elmah/issues/407) | [elmah.github.io](https://elmah.github.io/) 
+[Sentry](https://github.com/getsentry/sentry-dotnet) | Install-Package Sentry  | [Yes](https://github.com/getsentry/sentry-dotnet) | [Yes](https://github.com/getsentry/sentry-dotnet) | [sentry.io](https://sentry.io/)
 
 ASP.NET Core contains built-in [logging](https://docs.asp.net/en/latest/fundamentals/logging.html)
 
