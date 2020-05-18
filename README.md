@@ -219,6 +219,7 @@ Project | NuGet Install Command | .NET Core Support | ASP.NET Core Support | Web
 [LibGit2Sharp](https://github.com/libgit2/libgit2sharp) | Install-Package LibGit2Sharp | Yes | Yes | [libgit2.org](http://libgit2.org/)
 [FastMember](https://github.com/mgravell/fast-member) | Install-Package FastMember | Yes | Yes | 
 [NFluent](https://github.com/tpierrain/NFluent) | Install-Package NFluent | Yes | Yes | [n-fluent.net](http://www.n-fluent.net/)
+[Charming](https://github.com/tzkhan/Charming) | Install-Package Charming.Types | Yes | Yes | [GitHub Wiki](https://github.com/tzkhan/Charming/wiki)
 
 # License
 
