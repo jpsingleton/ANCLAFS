@@ -135,6 +135,7 @@ ASP.NET Core contains built-in [DI](https://docs.asp.net/en/latest/fundamentals/
 | [ELM](https://github.com/aspnet/Diagnostics) | Install-Package Microsoft.AspNetCore.Diagnostics.Elm  | Yes | Yes |  |
 | [ELMAH](https://github.com/elmah/Elmah) |  | [No](https://github.com/elmah/Elmah/issues/407) | [No](https://github.com/elmah/Elmah/issues/407) | [elmah.github.io](https://elmah.github.io/)  |
 | [Sentry](https://github.com/getsentry/sentry-dotnet) | Install-Package Sentry  | [Yes](https://github.com/getsentry/sentry-dotnet) | [Yes](https://github.com/getsentry/sentry-dotnet) | [sentry.io](https://sentry.io/) |
+| [elmah.io](https://github.com/elmahio/Elmah.Io.Client) | Install-Package Elmah.Io.Client  | [Yes](https://github.com/elmahio/Elmah.Io.Client) | [Yes](https://github.com/elmahio/Elmah.Io.AspNetCore) | [elmah.io](https://elmah.io/) |
 
 ASP.NET Core contains built-in [logging](https://docs.asp.net/en/latest/fundamentals/logging.html)
 
