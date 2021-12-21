@@ -23,9 +23,11 @@ This project is __treeware__! If you found it useful then please [plant a tree](
 
 ## Background
 
-In the process of writing a [book](https://unop.uk/book/) on ASP.NET Core and .NET Core, I've done lots of research into what .NET libraries and frameworks are currently supported by these new platforms. Here are the results (and more), hopefully you'll find this useful. Obviously these will change (and hopefully grow) over time. Send me a pull request if you'd like to make a correction or add something. This is a living document.
+_Note:_ As .NET Core is the future of .NET and .NET 6 (i.e. .NET Core 5) is now out, this list is mostly redundant. It is here as a record but is unlikely to be updated.
 
 ---
+
+In the process of writing a [book](https://unop.uk/book/) on ASP.NET Core and .NET Core, I've done lots of research into what .NET libraries and frameworks are currently supported by these new platforms. Here are the results (and more), hopefully you'll find this useful. Obviously these will change (and hopefully grow) over time. Send me a pull request if you'd like to make a correction or add something. This is a living document.
 
 ## Experimenting
 
